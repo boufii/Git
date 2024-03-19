@@ -1,2 +1,2 @@
-This is  first master  , I am on the master mode
+This is  first user  , I am on the user mode
 

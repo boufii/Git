@@ -1,1 +1,2 @@
-This is  seconde  master  , I am on the master mode
+This is  seconde  user  , I am on the user mode , I want to apply my changes okey
+
